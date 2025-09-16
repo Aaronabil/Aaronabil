@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Muhamad Nabil</h1>
+<h1 align="center">Say my name</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,php,react,vite,supabase,solidity,ts" />
